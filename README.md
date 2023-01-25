@@ -1,6 +1,6 @@
-# conversor
+# Conversor
 
-A new Flutter project.
+App conversor de moedas.
 
 ## Getting Started
 
